@@ -1,0 +1,9 @@
+# github.com/aws/aws-lambda-go v1.8.1
+github.com/aws/aws-lambda-go/events
+github.com/aws/aws-lambda-go/lambda
+github.com/aws/aws-lambda-go/lambda/messages
+github.com/aws/aws-lambda-go/lambdacontext
+# github.com/common-nighthawk/go-figure v0.0.0-20180619031829-18b2b544842c
+github.com/common-nighthawk/go-figure
+# github.com/torbensky/now-go-bridge v0.0.0-20190110165854-ddf34f46542a
+github.com/torbensky/now-go-bridge/bridge
