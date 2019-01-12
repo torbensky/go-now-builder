@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "go.mod",
+      "use": "@torbensky/go-mod"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "cmd/$1/lambda.go"
+    }
+  ]
+}
